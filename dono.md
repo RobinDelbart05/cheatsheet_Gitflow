@@ -23,3 +23,8 @@
 > Crée une branche annexée à feature
 - git flow feature finish [ma-feature]
 > Termine le travail sur la branche et la merge avec development
+- git flow release
+> 
+- git flow release start 1.0.0
+> crée la release
+- git flow release finish 1.0.0
