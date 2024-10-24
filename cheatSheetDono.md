@@ -14,4 +14,9 @@
 - Au lieu d'une seule branche main, deux branches principales : **main** et **develop**
 - **main :** Le produit fini - La partie client
 - **develop :** Le produit en cours de développement, dupliquée de la branche main.
--
+
+### Les étapes :
+
+1. Compléter la branche main avec une branche develop.
+   1. `git branch develop`, `git push -u origin develop`
+   2.
