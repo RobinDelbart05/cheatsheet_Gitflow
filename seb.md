@@ -38,4 +38,5 @@ v1.0 O────────┤
   master   workshop
 ```
 Scheme inspired by V. Driessen in *A Successful Git Branching Model*. 
+
 ※F1 = feature 1; F2 = feature 2; R2 = release 2.0; H2 = hotfix for 2.0
