@@ -17,4 +17,9 @@
 > Permet d'initialiser les branches de travail
 - git flow feature
 > Permet de créer une nouvelle branche pour les features
-- 
+- git branch
+> Checker les branches de travail
+- git flow feature start [nom-de-la-feature]
+> Crée une branche annexée à feature
+- git flow feature finish [ma-feature]
+> Termine le travail sur la branche et la merge avec development
