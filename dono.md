@@ -28,3 +28,4 @@
 - git flow release start 1.0.0
 > crée la release
 - git flow release finish 1.0.0
+> termine la release et supprime 
