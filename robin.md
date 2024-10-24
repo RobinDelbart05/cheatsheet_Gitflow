@@ -14,3 +14,5 @@
 | git flow release publish "ma_livraison"          | publier branche de livraison                             |
 | git flow release track "ma_livraison"            | suivre l'état de la branche livraison                    |
 | git flow release finish "ma_livraison"           | terminer la branche livraison                            |
+| git flow hotfix start "ma_version"               | commencer la branche hotfix                              |
+| git flow hotfix finish "ma_version"              | terminer branche hotfix                                  |
